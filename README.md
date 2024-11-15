@@ -2,11 +2,12 @@
 
 ## 🍱 프로젝트 소개
 # 못난이 농산물 크라우드 펀딩 플랫폼 GROWN
+![Group 1437256904](https://github.com/user-attachments/assets/ea4d1b88-1085-4264-a2b5-15c629784ce9)
+
 
 ---
 
 - 개발 기간 : 24.11.07 ~ 24.11.16
-- 배포 URL : [**babsim-59d06.web.app**]([https://babsim-59d06.web.app](https://github.com/JinVibe/vegetable_android))
 - 안드로이드 GitHub : https://github.com/jhssong/babsim-FE
 - 로그인 후 사용해야 모든 기능 사용 가능
 
@@ -18,8 +19,8 @@
 - BackEnd : Spring Framework ,Spring Data JPA, AWS EC2, AWS S3
 - 협업 툴 : GitHub, Discord, Notion, Figma
 
-## 😎 팀원 소개
-## ⛑️ 역할 분담
+
+## 😎 팀원 소개 및및 역할 분담
 
 ---
 
@@ -40,12 +41,11 @@
 - 😋유우석
     - JWT 로그인 및 회원가입 인증 인가 구현 / 멤버 도메인 API개발
     - AWS EC2 배포
-    - 
 ### Design
   - 😋윤규원
     - 플랫폼 전반 디자인
-    -  PPT작성 
-
+    -  PPT작성
+      
 ## 📚 페이지별 기능
 
 ---
