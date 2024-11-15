@@ -78,4 +78,11 @@
 ![마이페이지 - 기부처확인](https://github.com/user-attachments/assets/d1a5cbc5-25e9-41d7-9f79-ec07556c5d79)
 
 
+### API 명세서
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6c765fef-aa80-4f3c-87c7-02dde0d76ed0">
+
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/58572441-9a28-4fc0-92ca-33f1cd2f8034">
+
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/71cf9cb7-6fd9-41ba-b19f-77b22e0e396a">
 
